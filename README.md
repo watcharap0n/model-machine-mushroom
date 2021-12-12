@@ -103,4 +103,4 @@ path = '/content/drive/MyDrive/agaricus-lepiota.data.csv'
 
 ```
 
-##ส่วนหนึ่งของโค้ดสามารถเข้าไปดูได้ใน source code ที่มีด้านบน
+**ส่วนหนึ่งของโค้ดสามารถเข้าไปดูได้ใน source code ที่มีด้านบน**
